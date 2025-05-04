@@ -41,7 +41,7 @@ A WhatsApp bot using the Baileys API that automatically views status updates, re
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/whatsapp-status-bot.git
+git clone https://github.com/dinethnethsara/whatsapp-status-bot.git
 cd whatsapp-status-bot
 ```
 
